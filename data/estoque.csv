@@ -1,0 +1,11 @@
+item,categoria,quantidade,unidade,consumo_mensal,preco_unitario,validade,estoque_minimo
+Arroz,Alimento,25,kg,5,6,2026-12-31,5
+Feijao,Alimento,12,kg,4,9,2026-11-20,4
+Cafe Premium,Alimento,3,kg,2,45,2026-10-10,2
+Creme Dental,Higiene,24,unidade,4,7,2027-12-01,6
+Papel Higienico,Higiene,96,rolo,24,2,sem_validade,24
+Detergente,Limpeza,12,unidade,4,3,2026-08-01,4
+Sabao em Po,Limpeza,10,kg,3,14,2026-09-01,3
+Gas de Cozinha,Cozinha,1,botijao,1,120,sem_validade,2
+Azeite Extra Virgem,Alimento,1,unidade,1,38,2026-07-15,2
+Macarrao,Alimento,20,pacote,6,5,2026-10-05,6

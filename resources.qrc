@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="/icons">
+    <file alias="dashboard.svg">assets/icons/dashboard.svg</file>
+    <file alias="dashboard_active.svg">assets/icons/dashboard_active.svg</file>
+    <file alias="stock.svg">assets/icons/stock.svg</file>
+    <file alias="stock_active.svg">assets/icons/stock_active.svg</file>
+    <file alias="shopping.svg">assets/icons/shopping.svg</file>
+    <file alias="shopping_active.svg">assets/icons/shopping_active.svg</file>
+    <file alias="piggy.svg">assets/icons/piggy.svg</file>
+    <file alias="piggy_active.svg">assets/icons/piggy_active.svg</file>
+    <file alias="investments.svg">assets/icons/investments.svg</file>
+    <file alias="investments_active.svg">assets/icons/investments_active.svg</file>
+    <file alias="reports.svg">assets/icons/reports.svg</file>
+    <file alias="reports_active.svg">assets/icons/reports_active.svg</file>
+    <file alias="logs.svg">assets/icons/logs.svg</file>
+    <file alias="logs_active.svg">assets/icons/logs_active.svg</file>
+    <file alias="settings.svg">assets/icons/settings.svg</file>
+    <file alias="settings_active.svg">assets/icons/settings_active.svg</file>
+    <file alias="about.svg">assets/icons/about.svg</file>
+    <file alias="about_active.svg">assets/icons/about_active.svg</file>
+  </qresource>
+  <qresource prefix="/logo">
+    <file alias="qkage_logo.svg">assets/logo/qkage_logo.svg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+build/
+backups/
+*.log
+*.tmp
+*.user
+*.autosave
+*.o
+*.a
+*.so
+*.swp
+.cache/
