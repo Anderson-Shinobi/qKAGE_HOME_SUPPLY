@@ -1,4 +1,4 @@
-# qKAGE_HOME_SUPPLY
+![Dashboard](docs/screenshots/dashboard.png)![Dashboard](docs/screenshots/dashboard.png)# qKAGE_HOME_SUPPLY
 
 ![Release](https://img.shields.io/badge/release-v1.2.1--beta-f28c28)
 ![Qt6](https://img.shields.io/badge/Qt-6-f28c28)
