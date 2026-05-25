@@ -17,13 +17,25 @@ Current release: **v1.2.1-beta**.
 
 ## Screenshots
 
-Updated screenshot placeholders:
+### Dashboard
 
-- `docs/screenshots/dashboard.png` - Dashboard with InfoCards, gauges, operational status and Operational Temporal Chart.
-- `docs/screenshots/stockpage.png` - Stock management and visual CRUD workflow.
-- `docs/screenshots/shoppingpage.png` - Dynamic shopping engine with priorities and estimated cost.
-- `docs/screenshots/reportspage.png` - Monthly reports and Markdown export.
-- `docs/screenshots/aboutdialog.png` - Professional AboutDialog and release identity.
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Estoque
+
+![Estoque](docs/screenshots/estoque.png)
+
+### Compras
+
+![Compras](docs/screenshots/compras.png)
+
+### Relatórios
+
+![Relatórios](docs/screenshots/relatorios.png)
+
+### Sobre
+
+![Sobre](docs/screenshots/sobre.png)
 
 ## Architecture
 
