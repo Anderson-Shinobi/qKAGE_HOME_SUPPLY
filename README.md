@@ -9,9 +9,6 @@
 ### Compras
 ![Compras](docs/screenshots/compras.png)
 
-### Cofrinhos
-![Cofrinhos](docs/screenshots/cofrinho.png)
-
 ### Relatórios
 ![Relatórios](docs/screenshots/relatorios.png)
 
