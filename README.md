@@ -15,12 +15,6 @@
 ### Sobre
 ![Sobre](docs/screenshots/sobre.png)
 
-### Logs
-![Logs](docs/screenshots/logs.png)
-
-### Configurações
-![Configurações](docs/screenshots/configuracoes.png)
-
 ### Sobre
 ![Sobre](docs/screenshots/sobre.png)![Dashboard](docs/screenshots/dashboard.png)![Dashboard](docs/screenshots/dashboard.png)# qKAGE_HOME_SUPPLY
 
