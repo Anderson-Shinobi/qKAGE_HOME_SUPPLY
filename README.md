@@ -1,4 +1,31 @@
-![Dashboard](docs/screenshots/dashboard.png)![Dashboard](docs/screenshots/dashboard.png)# qKAGE_HOME_SUPPLY
+## Screenshots
+
+### Dashboard
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Estoque
+![Estoque](docs/screenshots/estoque.png)
+
+### Compras
+![Compras](docs/screenshots/compras.png)
+
+### Cofrinhos
+![Cofrinhos](docs/screenshots/cofrinho.png)
+
+### Investimentos
+![Investimentos](docs/screenshots/investimentos.png)
+
+### Relatórios
+![Relatórios](docs/screenshots/relatorios.png)
+
+### Logs
+![Logs](docs/screenshots/logs.png)
+
+### Configurações
+![Configurações](docs/screenshots/configuracoes.png)
+
+### Sobre
+![Sobre](docs/screenshots/sobre.png)![Dashboard](docs/screenshots/dashboard.png)![Dashboard](docs/screenshots/dashboard.png)# qKAGE_HOME_SUPPLY
 
 ![Release](https://img.shields.io/badge/release-v1.2.1--beta-f28c28)
 ![Qt6](https://img.shields.io/badge/Qt-6-f28c28)
