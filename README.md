@@ -1,4 +1,4 @@
-## Screenshots
+### Screenshots
 
 ### Dashboard
 ![Dashboard](docs/screenshots/dashboard.png)
@@ -12,11 +12,11 @@
 ### Cofrinhos
 ![Cofrinhos](docs/screenshots/cofrinho.png)
 
-### Investimentos
-![Investimentos](docs/screenshots/investimentos.png)
-
 ### Relatórios
 ![Relatórios](docs/screenshots/relatorios.png)
+
+### Sobre
+![Sobre](docs/screenshots/sobre.png)
 
 ### Logs
 ![Logs](docs/screenshots/logs.png)
