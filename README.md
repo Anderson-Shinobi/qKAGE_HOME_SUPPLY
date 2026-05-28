@@ -1,21 +1,3 @@
-### Screenshots
-
-### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
-
-### Estoque
-![Estoque](docs/screenshots/estoque.png)
-
-### Compras
-![Compras](docs/screenshots/compras.png)
-
-### Relatórios
-![Relatórios](docs/screenshots/relatorios.png)
-
-### Sobre
-![Sobre](docs/screenshots/sobre.png)
-
-
 
 ![Release](https://img.shields.io/badge/release-v1.2.1--beta-f28c28)
 ![Qt6](https://img.shields.io/badge/Qt-6-f28c28)
